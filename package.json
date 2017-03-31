@@ -1,0 +1,22 @@
+{
+  "name": "guylaroche",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pltnm239/guylaroche.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pltnm239/guylaroche/issues"
+  },
+  "homepage": "https://github.com/pltnm239/guylaroche#readme",
+  "dependencies": {
+    "wordpress": "^1.4.0"
+  }
+}
