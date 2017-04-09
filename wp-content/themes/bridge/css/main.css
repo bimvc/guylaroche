@@ -6,7 +6,10 @@
     display: none;
 }
 .paspartu_outer {
-    padding: 1.7% 0 0 1.7% !important;
+    padding: 0 0 0 1.7% !important;
+}
+.paspartu_middle_inner .paspartu_top{
+    display: none;
 }
 .q_logo_vertical{
     margin-top: 35px !important;
@@ -19,4 +22,11 @@ footer{
 }
 #back_to_top{
     display: none !important;
+}
+.carousel-inner{
+    min-width: 100% !important;
+}
+.q_logo_vertical {
+    position: relative;
+    left: 6px;
 }
