@@ -430,7 +430,7 @@ html {
 }
 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   line-height: 26px;
   color: #818181;
@@ -6205,7 +6205,7 @@ article .qode-portfolio-new-badge {
 }
 
 .portfolio_main_holder .item_holder .icons_holder {
-  font-family: "Raleway",sans-serif;
+  font-family: 'Open Sans', sans-serif;
   /* this css is here to overwrite other font-family (from body) which can make problem in icon height */
 }
 
@@ -6696,7 +6696,7 @@ article .qode-portfolio-new-badge {
 
 .portfolio_main_holder .item_holder.thin_plus_only .thin_plus_only_icon {
   font-weight: 100;
-  font-family: Raleway;
+  font-family: 'Open Sans', sans-serif;
   font-size: 100px;
   -webkit-transition: all 0.5s 0.3s;
   transition: all 0.5s 0.3s;
@@ -12432,7 +12432,7 @@ body.boxed .full_width .section_inner .blog_slider .caroufredsel-prev {
   line-height: 17px;
   background-color: #fff;
   color: #818181;
-  font-family: 'Raleway', serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -15076,7 +15076,7 @@ body div.pp_default .pp_nav .currentTextHolder {
   position: relative;
   float: left;
   padding: 0px 20px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 15px;
   color: #ffffff;
   font-weight: 600;
@@ -16062,7 +16062,7 @@ aside .widget #lang_sel_click > ul li a,
 aside .widget #lang_sel_click ul ul a,
 aside .widget #lang_sel_list li a {
   color: #adadad;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background-color: #fff;
 }
 
@@ -20984,7 +20984,7 @@ input.wpcf7-form-control.wpcf7-submit {
   padding: 0px 23px;
   font-size: 13px;
   font-weight: 700;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-align: left;
   text-decoration: none;
   cursor: pointer;
@@ -21135,7 +21135,7 @@ body .gform_wrapper input[type="reset"],
 body .gform_wrapper .chzn-container .chzn-single,
 body .gform_wrapper .chzn-container-single .chzn-single,
 body .gform_wrapper select {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 body .gform_wrapper .gf_progressbar,

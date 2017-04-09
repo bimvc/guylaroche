@@ -3,6 +3,9 @@
 //$qode_landing = true;
 //$qode_tour_popup = true;
 
+
+add_filter('show_admin_bar', '__return_false');
+
 include_once get_template_directory().'/theme-includes.php';
 
 if(isset($qode_toolbar) && $qode_toolbar === true) {

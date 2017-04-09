@@ -526,7 +526,7 @@ header("Content-type: text/css; charset=utf-8");
     body{
     	<?php if($qode_options_proya['google_fonts'] != "-1"){ ?>
     	<?php $font = str_replace('+', ' ', $qode_options_proya['google_fonts']); ?>
-    	font-family: '<?php echo $font; ?>', sans-serif;
+    	font-family: 'Open Sans', sans-serif;
     	<?php } ?>
     	<?php if (!empty($qode_options_proya['text_color'])) { ?> color: <?php echo $qode_options_proya['text_color'];  ?>; <?php } ?>
     	<?php if (!empty($qode_options_proya['text_fontsize'])) { ?> font-size: <?php echo $qode_options_proya['text_fontsize']; ?>px; <?php } ?>

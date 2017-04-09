@@ -1,0 +1,22 @@
+*:not(i){
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 200;
+}
+.paspartu_bottom, .paspartu_right{
+    display: none;
+}
+.paspartu_outer {
+    padding: 1.7% 0 0 1.7% !important;
+}
+.q_logo_vertical{
+    margin-top: 35px !important;
+}
+nav.vertical_menu{
+    margin:  35px 0 0 !important;
+}
+footer{
+    margin-bottom: 0 !important;
+}
+#back_to_top{
+    display: none !important;
+}
