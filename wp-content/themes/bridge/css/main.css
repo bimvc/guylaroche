@@ -30,3 +30,25 @@ footer{
     position: relative;
     left: 6px;
 }
+.ajax_loader .two_rotating_circles{
+    display: none !important;
+}
+/* breadcrumb on blog */
+.post_info{
+    display: none !important;
+}
+.blog_holder{
+    margin-top: 18px;
+}
+.default_template_holder{
+    padding-top: 0 !important;
+}
+.fullHeight{
+    min-height: 1000px;
+}
+.product{
+    margin-top: 32px !important;
+}
+.summary h1{
+    margin-top: 30px;
+}

@@ -109,7 +109,7 @@
 	.q_price_table.qode_pricing_table_advanced .qode_pt_additional_info .qode_pt_icon,
 	.q_price_table.qode_pricing_table_advanced .price_table_inner .value
 	{
-        color: #1abc9c !important;
+        color: #000000 !important;
     }
 	h2 a:hover,
 	h3 a:hover,
@@ -149,7 +149,7 @@
     .title .text_above_title
 	{
 
-		color: #1abc9c;
+		color: #000000;
 	}
 
     .box_image_with_border:hover,
@@ -182,7 +182,7 @@
         .woocommerce ul.products li.product .added_to_cart:hover,
         input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover,
     .portfolio_main_holder .item_holder.image_subtle_rotate_zoom_hover .icons_holder a:hover {
-        border-color: #1abc9c    }
+        border-color: #000000    }
 
     .q_icon_list i,
     .q_progress_bar .progress_content,
@@ -257,19 +257,19 @@
 	.blog_holder.blog_chequered article.format-link:hover,
 	.blog_holder.blog_chequered article.format-quote:hover
 	{
-        background-color: #1abc9c;
+        background-color: #000000;
     }
 
 
     .q_circles_holder .q_circle_inner2:hover,
 	.blog_holder article.format-link .post_text:hover .post_text_inner,
 	.blog_holder article.format-quote .post_text:hover .post_text_inner {
-        background-color: #1abc9c !important;
-        border-color: #1abc9c !important;
+        background-color: #000000 !important;
+        border-color: #000000 !important;
     }
 
     .qode-lazy-preloader svg circle {
-        stroke: #1abc9c    }
+        stroke: #000000    }
 
 
     .ajax_loader .pulse,
