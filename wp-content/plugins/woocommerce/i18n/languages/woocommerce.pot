@@ -5700,7 +5700,7 @@ msgstr ""
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:204
 #: includes/wc-template-functions.php:1122
 #: templates/single-product/tabs/description.php:25
-msgid "Description"
+msgid "Описание"
 msgstr ""
 
 #: includes/admin/class-wc-admin-api-keys-table-list.php:41

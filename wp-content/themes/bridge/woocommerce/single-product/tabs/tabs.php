@@ -48,7 +48,8 @@ if ( ! empty( $tabs ) ) : ?>
 			<?php foreach ( $tabs as $key => $tab ) : ?>
 
 				<h6 class="title-holder clearfix <?php echo esc_attr($key) ?>_tab">
-					<span class="tab-title"><?php echo apply_filters( 'woocommerce_product_' . $key . '_tab_title', esc_html( $tab['title'] ), $key ); ?></span>
+					<!--<span class="tab-title"><?php echo apply_filters( 'woocommerce_product_' . $key . '_tab_title', esc_html( $tab['title'] ), $key ); ?></span>-->
+					<span class="tab-title">Описание</span>
 				</h6>
 				<div class="accordion_content">
 					<div class="accordion_content_inner">

@@ -52,3 +52,28 @@ footer{
 .summary h1{
     margin-top: 30px;
 }
+.add-to-cart-button{
+    display: none !important;
+}
+.default_template_holder{
+    width: auto;
+    max-width: 1100px !important;
+}
+.woocommerce-product-gallery__wrapper{
+    margin-left: 0;
+}
+.reviews_tab{
+    display: none !important;
+}
+.woocommerce .product .images img{
+    min-width: 100%;
+}
+.qode-related-upsells-title{
+    margin-bottom: 0 !important;
+}
+.social_share_list_holder{
+    display: none;
+}
+.q_accordion_holder.boxed div.accordion_content {
+    padding: 0 26px !important;
+}

@@ -44,7 +44,7 @@ if ( $products->have_posts() ) : ?>
 
 	<div class="related products">
 
-		<<?php esc_attr_e($title_tag); ?> class="qode-related-upsells-title"><?php _e( 'Related Products', 'woocommerce' ); ?></<?php esc_attr_e($title_tag); ?>>
+		<!--<<?php esc_attr_e($title_tag); ?> class="qode-related-upsells-title"><?php _e( 'Related Products', 'woocommerce' ); ?></<?php esc_attr_e($title_tag); ?>>-->
 
 		<?php woocommerce_product_loop_start(); ?>
 
